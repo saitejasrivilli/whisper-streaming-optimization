@@ -406,3 +406,4 @@ Implementation: Store transcript history, adjust decoder priors.
 **Want performance details?** See `ARCHITECTURE.md`.
 
 **Need to understand the code?** Start with `main.py` (well-commented).
+# whisper-streaming-optimization
